@@ -367,9 +367,7 @@ border-bottom-color:#f8f6f5;
 			}
 	
 			.myshop_top_header {
-background-color:#a7d9e1;
-				padding-top:5px;
-				padding-bottom:5px;
+background-color:transparent;
 				position:relative !important;
 				top: 0 !important;
 			}
@@ -470,8 +468,6 @@ background-color:transparent;
 
 	
 		.myshp_slogan {
-		    margin-top:3px;
-			margin-bottom:3px;
 color:#808080;
 font-size:13px;
 		    text-align:left;
